@@ -1,0 +1,9 @@
+name: LoginBonus
+main: com.github.woxloi.loginbonus.Main
+version: 1.0
+author: woxloi
+api-version: 1.20
+commands:
+  loginbonus:
+    aliases:
+      - lb
